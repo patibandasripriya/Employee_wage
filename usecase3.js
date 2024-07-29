@@ -1,5 +1,5 @@
 const work_hours=8;
-let employee = "Abhishek";
+let employee = "Priya";
 
 function PartTimeEmpWage(){
     let worked_days=4;
